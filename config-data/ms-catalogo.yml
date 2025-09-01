@@ -1,6 +1,10 @@
 spring:
   application:
+<<<<<<< HEAD
     name: ms-catalogo
+=======
+    name: ms_catalogo
+>>>>>>> 006ddf104b2a047318f67ced0738a547fc06f1fc
 
   datasource:
     url: jdbc:mysql://localhost:3306/ms_catalogo
